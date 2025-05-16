@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: alpine-sleep
+  name: alpine-bgbg
 spec:
   containers:
   - name: alpine
